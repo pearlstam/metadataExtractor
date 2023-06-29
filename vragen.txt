@@ -1,0 +1,7 @@
+- welke gegevens moeten er precies in de bestandsnaam staan? dossiernummer, catagerienummer en documentvolgnummer,
+  maar deze vind ik niet direct terug in de xml bestanden
+- Ik zie in de xml een pad en bestandsnaam staan, ik neem aan dat dit de corresponderende pdf is?
+- Moeten er nog controles plaats vinden, bijvoorbeeld of de target map leeg is, of het bestand al bestaat,
+  en wat dan? Overschrijven? Foutmelding? Negeren?
+
+
